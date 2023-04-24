@@ -10,7 +10,7 @@ If you have ever tried using alt accounts on gmod, you might know that some serv
 /garrysmod/cfg/client.vdf
 
 Deleting these 3 files will guarentee you cannot be detected via your garrys mod files
-However, servers do use IP BASED ALT DETECTION, so make you you USE A NEW IP WHEN JOINING SERVER ON ALT
+However, servers do use **IP BASED ALT DETECTION** , so make you you USE A NEW IP WHEN JOINING SERVER ON ALT
 
 ***How to use:***
 
