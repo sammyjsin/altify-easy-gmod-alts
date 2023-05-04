@@ -1,4 +1,4 @@
-# gmod-alt-detection-buster
+# Altify - Easily Alt On GMOD
 
 If you have ever tried using alt accounts on gmod, you might know that some servers have addons that can detect if an alt account is being used via previous gmod files.
 # This is a simple python script which deletes 3 essential within the gmod directory that servers use to track you:
