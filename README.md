@@ -1,4 +1,8 @@
 # Altify - Easily Alt On GMOD
+* Save Time Wasted by Fully Reinstalling GMOD To use Alt accounts
+* This script simple DELETES FILES WITHIN YOUR GMOD DIRECTORY, **IT DOES NOT GIVE YOU AN ALT ACCOUNT TO USE!** YOU MUSE ALREADY HAVE ONE!
+
+#
 
 If you have ever tried using alt accounts on gmod, you might know that some servers have addons that can detect if an alt account is being used via previous gmod files.
 # This is a simple python script which deletes 3 essential within the gmod directory that servers use to track you:
@@ -12,7 +16,7 @@ If you have ever tried using alt accounts on gmod, you might know that some serv
 Deleting these 3 files will guarentee you cannot be detected via your garrys mod files
 However, servers do use **IP BASED ALT DETECTION** , so make you you USE A NEW IP WHEN JOINING SERVER ON ALT
 
-***How to use:***
+# ***How to use:***
 
 ***1) open run.bat***
 
